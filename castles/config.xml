@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.isleofwight.bouncycastles"
+        versionCode="11" 
+        version   = "1.0.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Isle of Wight Bouncy Castles</name>
+
+<description>
+Isle Of Wight Bouncy Castles Ltd
+ISLE OF WIGHT BOUNCY CASTLES HIRE FULL ISLAND COVERAGE.
+We are a family run business hiring bouncy castles on the Isle Of Wight for adult &amp; childrens parties and family events with free delivery and set up, island-wide.  Isle of Wight Bouncy Castles are fully insured and members of the BIHA. We offer very competitive rates compared to others and are friendly and most importantly reliable. No deposit is required upon booking and you can cancel up to a day before the hire if required.The castles are varied and suitable for adults or children aged 14 and under, all our castles are safety checked before each outing and are clean and tidy.
+</description>
+
+    <author href="http://BroadwaySoftwareLtd.co.uk" email="support@BroadwaySoftwareLtd.co.uk">
+        Broadway Software Ltd
+    </author>
+
+<icon src="icon.png"></icon>
+
+<preference name="orientation" value="portrait" />
+<preference name="fullscreen" value="true" />
+
+<feature name="http://api.phonegap.com/1.0/network"/>
+</widget>
